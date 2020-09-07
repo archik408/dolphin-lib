@@ -25,7 +25,7 @@
         "paypal-rest-sdk": "~1.6.4",
         "q": "~1.4.1",
         "stripe": "~4.1.0",
-        "twilio": "~2.5.2",
+        "twilio": "~3.41.0",
         "validator": "~4.3.0",
         "nodemailer": "1.2.2",
         "nodemailer-smtp-transport": "~0.1.13",
